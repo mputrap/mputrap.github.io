@@ -20,6 +20,13 @@
       "email": "sara@gmail.com",
       "age": 23,
       "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstName": "Jono",
+      "email": "jonok@gmail.com",
+      "age": 30,
+      "companyId": "3"
     }
   ],
   "companies": [
