@@ -1,22 +1,5 @@
 {
-  "kantor": [
-    {
-      "id": "1",
-      "name": "KC1",
-      "description": "Kantor Cabang 1"
-    },
-    {
-      "id": "2",
-      "name": "KC2",
-      "description": "Kantor Cabang 2"
-    },
-    {
-      "id": "3",
-      "name": "KC3",
-      "description": "Kantor Cabang 3"
-    }
-  ],
-  "karyawan": [
+  "users": [
     {
       "id": "1",
       "firstName": "John",
@@ -25,18 +8,11 @@
       "companyId": "1"
     },
     {
-      "id": "4",
-      "firstName": "Jon",
-      "email": "jon@gmail.com",
-      "age": 24,
-      "companyId": "1"
-    },
-    {
       "id": "2",
       "firstName": "Mark",
       "email": "mark@gmail.com",
       "age": 33,
-      "companyId": "3"
+      "companyId": "1"
     },
     {
       "id": "3",
@@ -44,6 +20,23 @@
       "email": "sara@gmail.com",
       "age": 23,
       "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Kantor Apple Inc."
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Kantor Microsoft"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Kantor Google"
     }
   ]
 }
